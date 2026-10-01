@@ -1,7 +1,53 @@
-.banner {
-height: 280px;
-background-image: url("gal.jpg");
-background-position: center;
-background-size: cover;
-background-repeat: no-repeat;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+main {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.inicio {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.texto {
+    width: 50%;
+}
+
+.imagem {
+    width: 45%;
+    height: 300px;
+}
+
+.cards {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    flex: 1;
 }
