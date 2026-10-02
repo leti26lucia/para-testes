@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #fffaf0;
+    background-color: #fde6ca;
     color: #222;
     font-family: Arial, sans-serif;
 }
@@ -11,15 +11,10 @@ header {
     justify-content: space-between;
     align-items: center;
 
-    background-color: #ffffff;
-    border-bottom: 1px solid #eee2cf;
+    background-color: #f7feca;
+    border-bottom: 1px solid #8f201c;
 }
 
-header h1 {
-    margin: 0;
-    color: #e85d25;
-    font-family: Georgia, serif;
-}
 
 nav {
     display: flex;
