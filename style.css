@@ -30,13 +30,8 @@ nav a {
     color: #8f201c;
     text-decoration: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
-
-}
 
 
-nav a:hover {
-    color: #e85d25;
 }
 
 
@@ -46,6 +41,7 @@ main {
     padding: 70px 30px;
 }
 
+
 .inicio {
     display: flex;
     align-items: center;
@@ -53,9 +49,11 @@ main {
     gap: 60px;
 }
 
+
 .texto {
     width: 50%;
 }
+
 
 .texto h2 {
     font-family: Georgia, serif;
