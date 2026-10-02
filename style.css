@@ -37,18 +37,6 @@ main {
 }
 
 
-.inicio {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 60px;
-}
-
-
-.texto {
-    width: 50%;
-}
-
 
 .texto h2 {
     font-family: Georgia, serif;
