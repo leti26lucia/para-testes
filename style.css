@@ -5,6 +5,21 @@ body {
     font-family: Arial, sans-serif;
 }
 
+
+.inicio {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.texto {
+
+    width: 50%;
+
+}
+
 header {
     padding: 25px 8%;
     display: flex;
